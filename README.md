@@ -12,7 +12,7 @@ My inspiration comes from p5.js Ping Pong. It uses simple geometric shapes, like
 
 ![Ping Pong screenshot 1](images/微信图片_20260508072048_201_52.png)
 
-![Ping Pong screenshot 2](images\微信图片_20260508072048_202_52.png)
+![Ping Pong screenshot 2](images/微信图片_20260508072048_202_52.png)
 
 ---
 
@@ -29,9 +29,9 @@ In Addition, for the final project, I can also let the user input values so the 
 
 ### Coding Technique Image
 
-![Ping Pong screenshot 3](images\微信图片_20260508072048_203_52.png)
+![Ping Pong screenshot 3](images/微信图片_20260508072048_203_52.png)
 
-![Ping Pong screenshot 4](images\微信图片_20260508072048_204_52.png)
+![Ping Pong screenshot 4](images/微信图片_20260508072048_204_52.png)
 
 ### Example Implementation
 
