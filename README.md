@@ -18,14 +18,14 @@ My inspiration comes from p5.js Ping Pong. It uses simple geometric shapes, like
 
 ## Part2：Coding Technique Exploration
 
-在 Ping Pong 示例中，玩家通过键盘控制挡板上下移动。程序也会检测球是否碰到挡板、上下墙壁，或者是否越过画布边缘。这个技术在最终项目中，让用户可以直接控制屏幕上的视觉对象。它可以把静态的视觉作品变成一个互动体验，让用户的移动改变画面中发生的事情。最重要的是，它没有使用了复杂的数学公式来计算角度！
+In the Ping Pong example, the player moves the paddle up and down with the keyboard. The program also detects whether the ball hits the paddle, the top or bottom walls, or goes past the edges of the canvas. This technique, used in the final project, lets users directly control visual objects on the screen. It can turn static visuals into an interactive experience, allowing user movement to change what happens in the scene. Most importantly, it does so without using complex mathematical formulas to calculate angles!
 
 ```js
 speedX = -speedX;
 vy_new = (ballY - paddleCenterY) / number;
 ```
 
-就做出了这个游戏！当然，在最终作业中，也能通过让用户输入，让球留下运动轨迹，来作画。
+In Addition, for the final project, I can also let the user input values so the ball leaves a trail as it moves, effectively drawing.
 
 ### Coding Technique Image
 
